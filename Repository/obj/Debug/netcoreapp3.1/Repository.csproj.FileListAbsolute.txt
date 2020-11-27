@@ -1,0 +1,13 @@
+C:\Users\Belal\source\repos\BS23PracticalTest\Repository\bin\Debug\netcoreapp3.1\Repository.deps.json
+C:\Users\Belal\source\repos\BS23PracticalTest\Repository\bin\Debug\netcoreapp3.1\Repository.dll
+C:\Users\Belal\source\repos\BS23PracticalTest\Repository\bin\Debug\netcoreapp3.1\Repository.pdb
+C:\Users\Belal\source\repos\BS23PracticalTest\Repository\obj\Debug\netcoreapp3.1\Repository.csprojAssemblyReference.cache
+C:\Users\Belal\source\repos\BS23PracticalTest\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfoInputs.cache
+C:\Users\Belal\source\repos\BS23PracticalTest\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfo.cs
+C:\Users\Belal\source\repos\BS23PracticalTest\Repository\obj\Debug\netcoreapp3.1\Repository.dll
+C:\Users\Belal\source\repos\BS23PracticalTest\Repository\obj\Debug\netcoreapp3.1\Repository.pdb
+C:\Users\Belal\source\repos\BS23PracticalTest\Repository\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\Belal\source\repos\BS23PracticalTest\Repository\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\Belal\source\repos\BS23PracticalTest\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.CopyComplete
+C:\Users\Belal\source\repos\BS23PracticalTest\Repository\bin\Debug\netcoreapp3.1\Repository.runtimeconfig.json
+C:\Users\Belal\source\repos\BS23PracticalTest\Repository\bin\Debug\netcoreapp3.1\Repository.runtimeconfig.dev.json
